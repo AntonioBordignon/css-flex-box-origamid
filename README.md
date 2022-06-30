@@ -1,9 +1,12 @@
-# Curso Origamid CSS Flexbox
+# Course Origamid CSS Flexbox
 
-**Link do curso:**
+<h1 align="center"> <img src="img/gif.gif"></h1>
+
+
+**About this Project:**
+
+In this project I made a responsive website using flexbox.
+
+**Course Link:**
 
 https://www.origamid.com/curso/css-flexbox
-
-**Link do guia completo contendo todas as especificações do flexbox:**
-
-https://origamid.com/projetos/flexbox-guia-completo
